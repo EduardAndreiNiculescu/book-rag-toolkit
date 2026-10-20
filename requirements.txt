@@ -1,0 +1,5 @@
+markitdown[pdf]>=0.1.0   # book-rag convert
+# optional, for `generate` without copy-paste:
+# google-generativeai
+# openai
+pytest>=8.0

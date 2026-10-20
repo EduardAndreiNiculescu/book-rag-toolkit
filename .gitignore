@@ -1,0 +1,6 @@
+books_md/
+rag_chunks/
+prompt_*.txt
+*.pdf
+__pycache__/
+.pytest_cache/
